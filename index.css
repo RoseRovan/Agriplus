@@ -87,4 +87,21 @@
       border-color: transparent;
         text-align: center;}
 
-    
+    .section2{
+          width: 43%;}
+
+    .buttons{
+       display: flex;
+       flex-direction: row;}
+      .customers{
+      height: 60px;
+    width: 50%;
+    padding-top: 10px;
+    background-color:whitesmoke;
+    color: black;
+    margin-top: -10px;
+    margin-left: 100px;
+      }
+              
+      
+        
