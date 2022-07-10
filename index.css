@@ -126,8 +126,6 @@
         font-size: 35px;
         letter-spacing: 0px;
         font-weight: bolder;
-        text-decoration: underline;
-        text-decoration: #ED661F;
       
       }
       #subheader-text{
@@ -138,4 +136,62 @@
       }
               
       
-        
+          /* OUR PRODUCTS */
+  .products-heading {
+    color: black;
+    text-align: left;
+    width: 100%;
+    margin-left: 8%;
+    font-size: 45px;
+    letter-spacing: 2px;
+  }
+   .product-subheading {
+    text-align: center;
+    font-size: 35px;
+    color: black;
+    letter-spacing: 2px;
+    width: 100%;
+
+   }
+   .product-text{
+    text-align: center;
+    font-size: 25px;
+    width: 100%;
+    color: black;
+   }
+  
+.Most-popular{
+  width: 100%;
+  margin-left: 0%;
+  margin-top: 2rem;
+  height: 200px;
+  flex-direction: row;
+  display: flex;
+
+}
+.fresh-carrots{
+  width: 20%;
+  margin-right: 4%;
+  background-color: #FAFAFA;
+  font-size: 17px;
+  text-align: center;
+}
+.cereals{
+  width: 20%;
+  margin-right: 4%;
+  background-color: #FAFAFA;
+  font-size: 17px;
+  text-align: center;
+}
+.Fresh-fish{
+  width: 20%;
+  background-color: #FAFAFA;
+  font-size: 17px;
+  text-align: center;
+}
+.Kales{
+  width: 20%;
+  background-color: #FAFAFA;
+  font-size: 17px;
+  text-align: center;
+}
