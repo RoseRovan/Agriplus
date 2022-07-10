@@ -53,4 +53,30 @@
 
   }
   /* NAVBAR END */
+  .container {
+    background-color: whitesmoke;
+    width: 100%;
+  }
+  .subheading1{
+    width: 100%;
+    padding-top: 50px;
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+  }
+  .section1{
+    width: 43%;
+    /*padding: 30px;*/
+    /*color: #0F298B;*/
+    /*color: #FAFAFA*/
+  }
+  #header-text{
+    color: black;
+    font-size: 45px;
+    letter-spacing: 2px;
+    font-weight: bolder;
+  
+  }
+  #subheader-text{
+    font-size: 25px;
   
