@@ -6,19 +6,17 @@ By Rosemary Kimani
 Table of Content
 
 
-## [Description]()
+* ## [Description]()
 
-## [Installation Requirement]()
+* ## [Installation Requirement]()
 
-## [Technology Used]()
+* ## [Technology Used]()
 
-## [Reference]()
+* ## [Reference]()
 
-## [License]()
+* ## [License]()
 
-## [Author Information]()
-
-
+* ## [Author Information]()
 ## DESCRIPTION
 A school project of a landing page for the purpose of assessment and grading.
 
