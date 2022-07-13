@@ -108,6 +108,8 @@
   background-color: whitesmoke;
   color: black;
   margin-top: -10px;
+  margin-bottom: -10px;
+
 }
 .customers-row {
   width: 25%;
@@ -219,6 +221,11 @@
   font-size: 17px;
   text-align: center;
 }
+.border {
+  padding: 20px;
+  margin: 5%;
+  background-color: grey;
+}
 /* DEAR ESTEEMED CUSTOMER SECTION START*/
 .sec3 {
   width: 100%;
@@ -230,12 +237,22 @@
 .esteemedCustomer {
   color: black;
   width: 100%;
-  font-size: 22px;
-  text-align: center;
+  font-size: 28px;
+  text-align: left;
+  font-weight: bold;
+  margin-left: 10%;
+}
+.checked {
+  color: #ed661f;
+}
+.arrow {
+  color: #ed661f;
+  padding: 5px;
+  margin-left: 1rem;
 }
 .subText {
   color: black;
-  font-size: 17px;
+  font-size: 20px;
   text-align: center;
 }
 .secText {
@@ -244,27 +261,43 @@
   margin-right: 5%;
 }
 .Read-more {
-  float: right;
-  padding: 10px;
-  border-radius: 15px;
-  color: white;
-  border-color: transparent;
-  margin-right: 5rem;
+  color: black;
   margin-top: 1rem;
+  text-align: right;
+  margin-right: 5rem;
+  float: right;
+  margin-bottom: 1rem;
+
+
 }
+ .Read-more:hover{
+  text-decoration: underline;
+  text-decoration-color: #ed661f;
+ }
+
 /* DEAR ESTEEMED CUSTOMER SECTION END*/
 /* KEEP IN TOUCH SECTION START*/
 .keepintouch {
   width: 100%;
   background-color: black;
-  margin-top: 3rem;
+  margin-top: 4rem;
   color: white;
   text-align: center;
-  height: 200px;}
-  .keepintouchBox {
-    line-height: 5px;
+  height: 200px;
+  padding-top: 2rem;
+
+}
+  
+  .email {
+    border: 1px solid white;
+    box-sizing: border-box;
+    margin-top: 2px;
+    background-color: white;
+    font-size: 12px;
+    padding: 12px;
 
   }
+  /* KEEP IN TOUCH END SECTION*/
 
 
 /* FOOTER SECTION START*/
@@ -274,7 +307,7 @@
   display: flex;
   margin-right: 3rem;
   background-color: black;
-  margin-top: 4rem;
+  margin-top: 1rem;
   color: white;
 }
 .footerBox {
