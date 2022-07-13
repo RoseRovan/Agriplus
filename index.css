@@ -39,10 +39,6 @@
   text-decoration-line: underline;
   text-decoration-color: #ed661f;
 }
-.nav ul li a:visited {
-  text-decoration: underline;
-  text-decoration-color: #ed661f;
-}
 .nav-items {
   padding: 15px;
   font-size: 20px;
@@ -257,6 +253,20 @@
   margin-top: 1rem;
 }
 /* DEAR ESTEEMED CUSTOMER SECTION END*/
+/* KEEP IN TOUCH SECTION START*/
+.keepintouch {
+  width: 100%;
+  background-color: black;
+  margin-top: 3rem;
+  color: white;
+  text-align: center;
+  height: 200px;}
+  .keepintouchBox {
+    line-height: 5px;
+
+  }
+
+
 /* FOOTER SECTION START*/
 .footer {
   width: 100%;
