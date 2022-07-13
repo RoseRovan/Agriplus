@@ -316,14 +316,7 @@
   margin-top: 4rem;
   color: white;
   text-align: center;
-<<<<<<< HEAD
   height: 200px;}
-=======
-  height: 200px;
-  padding-top: 2rem;
-
-}
->>>>>>> main
   
   .email {
     border: 1px solid white;
@@ -344,11 +337,7 @@
   display: flex;
   margin-right: 3rem;
   background-color: black;
-<<<<<<< HEAD
   /* margin-top: 4rem; */
-=======
-  margin-top: 1rem;
->>>>>>> main
   color: white;
 }
 .footerBox {
